@@ -5,7 +5,7 @@
 
 This repository contains a Python-based prototype for **reconciling transactions** between two source systems (a company cashbook and, bank statements) and generating a **business-ready dashboard** to provide key insights.
 
-## Problem STatement
+## Problem Statement
 The cashbook and bank statement can disagree due to timing differences and unrecorded bank entries. This project automates reconciliation by cleaning, standardizing, matching transactions, and reporting unmatched items.
 
 ## Dataset
